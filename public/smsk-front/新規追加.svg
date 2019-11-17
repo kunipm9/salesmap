@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.5" height="35.5" viewBox="0 0 35.5 35.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a7cac;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="グループ_422" data-name="グループ 422" transform="translate(-317.5 -552.4)">
+    <circle id="楕円形_93" data-name="楕円形 93" class="cls-1" cx="17.75" cy="17.75" r="17.75" transform="translate(317.5 552.4)"/>
+    <g id="グループ_366" data-name="グループ 366" transform="translate(0.406 0.24)">
+      <line id="線_176" data-name="線 176" class="cls-2" x1="8.028" y2="8.028" transform="translate(329 569.677) rotate(-45)"/>
+      <line id="線_177" data-name="線 177" class="cls-2" x2="8.028" y2="8.028" transform="translate(329 569.677) rotate(-45)"/>
+    </g>
+  </g>
+</svg>

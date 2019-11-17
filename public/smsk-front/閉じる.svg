@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89.776" height="89.776" viewBox="0 0 89.776 89.776">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #3a7cac;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        filter: url(#楕円形_91);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5ab9ff"/>
+      <stop offset="0" stop-color="#cb6d91"/>
+      <stop offset="0.296" stop-color="#a673d3"/>
+      <stop offset="0.552" stop-color="#73a5d1"/>
+      <stop offset="0.785" stop-color="#6ed072"/>
+      <stop offset="1" stop-color="#d8de86"/>
+      <stop offset="1" stop-color="#1d3e56"/>
+    </linearGradient>
+    <filter id="楕円形_91" x="0" y="0" width="89.776" height="89.776" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.365"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_421" data-name="グループ 421" transform="translate(-280.112 -607.112)">
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, 280.11, 607.11)">
+      <circle id="楕円形_91-2" data-name="楕円形 91" class="cls-1" cx="28" cy="28" r="28" transform="translate(9 58.62) rotate(-70)"/>
+    </g>
+    <circle id="楕円形_92" data-name="楕円形 92" class="cls-2" cx="26.75" cy="26.75" r="26.75" transform="translate(298.3 622.4)"/>
+    <line id="線_174" data-name="線 174" class="cls-3" x1="15.415" y2="15.415" transform="translate(317.792 641.792)"/>
+    <line id="線_175" data-name="線 175" class="cls-3" x2="15.415" y2="15.415" transform="translate(317.792 641.792)"/>
+  </g>
+</svg>

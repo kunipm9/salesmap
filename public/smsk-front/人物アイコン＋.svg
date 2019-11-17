@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.979" height="23.518" viewBox="0 0 24.979 23.518">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #707070;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #707070;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="グループ_529" data-name="グループ 529" transform="translate(-138.521 -50.5)">
+    <path id="person-1824147" class="cls-1" d="M590.243,564.509a5.662,5.662,0,1,0,5.661,5.661A5.662,5.662,0,0,0,590.243,564.509Zm5.084,11.209a7.5,7.5,0,0,1-10.161,0,10.372,10.372,0,0,0-4.527,8.653q0,.076.007.152h19.2q0-.076.007-.152a10.372,10.372,0,0,0-4.521-8.657Z" transform="translate(-442.117 -510.51)"/>
+    <line id="線_248" data-name="線 248" class="cls-2" x2="6.727" transform="translate(155.773 54.864)"/>
+    <line id="線_249" data-name="線 249" class="cls-2" x1="6.727" transform="translate(159.136 51.5) rotate(90)"/>
+  </g>
+</svg>

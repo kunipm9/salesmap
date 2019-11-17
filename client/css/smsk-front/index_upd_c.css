@@ -1,0 +1,221 @@
+body {
+  -webkit-font-smoothing: antialiased !important;
+}
+
+.header-1a {
+  background-color: #2A3F54 !important;
+  padding-top: 15px !important;
+  margin-top: -1px !important;
+  margin-bottom: 0px !important;
+  border-radius: 0 !important;
+  z-index: 100 !important;
+}
+
+.fotter-area {
+  width: 100% !important;
+  padding-left: 8px !important;
+  background-color: #ffffff !important;
+  right: 0px !important;
+  margin-bottom: 0 !important;
+}
+
+.list-display-segment {
+  margin: 0 !important;
+  border: none !important;
+  padding-top: 1em;
+  border-radius: 0px !important;
+  border-top: solid 1px whitesmoke !important;
+}
+
+.meibo-search-btn2 {
+  border-radius: 10px !important;
+  background-color: white !important;
+  border: solid 1px #dbdbdb !important;
+  color: #dbdbdb !important;
+  min-width: 5.75em;
+  width: 5.75em;
+  /* max-height: 2.5em; */
+  padding: 11px 5px !important;
+  /* margin-right: 0px !important; */
+}
+
+.meibo-search-btn2.active {
+  border-radius: 10px !important;
+  color: white !important;
+  background-color: #3a7cac !important;
+  min-width: 5.75em;
+  width: 5.75em;
+  /* max-height: 2.5em; */
+  padding: 11px 5px !important;
+  /* margin-right: 0px !important; */
+}
+
+.meibo-search-btn3 {
+  border-radius: 10px !important;
+  background-color: white !important;
+  border: solid 1px #dbdbdb !important;
+  color: #dbdbdb !important;
+  min-width: 5.75em;
+  width: 7.5em;
+  /* max-height: 2.5em; */
+  /* margin-right: 0px !important; */
+}
+
+.meibo-search-btn3.active {
+  border-radius: 10px !important;
+  color: white !important;
+  background-color: #3a7cac !important;
+  min-width: 5.75em;
+  width: 7.5em;
+  /* margin-right: 0px !important; */
+}
+
+.detail-search-label2 {
+  color: #808080 !important;
+  margin-left: 0px !important;
+  margin-bottom: 0px !important;
+  font-size: 12px !important;
+}
+
+.detail-search-segment {
+  margin: 0px !important;
+  margin-top: -1px !important;
+  padding: 1em 1.25em !important;
+  border: none !important;
+  border-bottom: solid 1px #91919126 !important;
+  border-radius: 0px !important;
+}
+
+.detail-search-segment2 {
+  margin: 0px !important;
+  margin-top: -1px !important;
+  padding: 1em 1.25em 5em 1.25em !important;
+  border: none !important;
+  border-radius: 0px !important;
+  padding-bottom: 70px !important;
+}
+
+.detail-search-footer-segment {
+  margin: 0px !important;
+  padding: 3em 1.25em 3em !important;
+  border: none !important;
+  border-radius: 0px !important;
+}
+
+.detail-search-row {
+  padding-bottom: 0.4em !important;
+  padding-top: 0.4em !important;
+}
+
+.no-pad-column {
+  padding: 0px !important;
+}
+
+.form-width-100 {
+  width: 100% !important;
+}
+
+.ui.dimmer {
+  background-color: #ffffff5c;
+}
+
+#results-number {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 3px;
+  padding-top: 9px;
+  margin-top: -19px !important;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: white;
+}
+
+.calendar-icon {
+  content:url("/smsk-front/カレンダー.png");
+}
+
+.search-name-icon {
+  content:url("/smsk-front/虫メガネ.png");
+}
+
+.search-rank-icon {
+  content:url("/smsk-front/ランク.png");
+}
+
+.search-tag-icon {
+  content:url("/smsk-front/タグ.png");
+}
+
+.detail-search-clear-button {
+  content: url("/smsk-front/×ボタン（タグで絞り込む1）.svg");
+  position: absolute;
+  right: 1.75em;
+  top: 1.9em;
+  transform: scale(0.9);
+  opacity: 0.5;
+}
+
+.detail-search-input::after {
+  content:url("/smsk-front/＞（グレー）.svg");
+  position: absolute;
+  right: 0.7em;
+  top: 0.8em;
+  transform: scale(0.8);
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.detail-search-icon-size {
+  object-fit: contain !important;
+  height: 55% !important;
+  top: 23% !important;
+}
+
+.listselector-footer-clear {
+  width: 101.5px !important;
+  background-color: white !important;
+  border: solid 1px #DDDDDD !important;
+  padding: 15px 21px !important;
+  box-shadow: -1px 3px 3px #EEEEEE !important;
+  font-size: 12px !important;
+  font-weight: normal !important;
+  height: 46px !important;
+}
+
+.listselector-footer-search {
+  width: 204.5px !important;
+  background-color: #3A7CAC !important;
+  color: white !important;
+  padding: 15px 21px !important;
+  box-shadow: -1px 4px 3px #EEEEEE !important;
+  font-size: 16px !important;
+}
+
+.ui.container.search-conditions {
+  overflow: hidden;
+  margin-right: 0 !important;
+}
+
+.search-conditions-clamp {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+/* Map_6*/
+.modal-dialog.map6-modal {
+  left: 93px;
+  bottom: 0;
+  top: 60px;
+  margin: 0;
+  width: 75%;
+}
+
+.map6-modal .modal-content {
+  background-color: transparent;
+}
+
+.ui.segment.map-userlist {
+  -webkit-box-shadow: 0 1px 2px 0 rgba(34,36,38,.15) !important;
+  box-shadow: 0 1px 2px 0 rgba(34,36,38,.15) !important;
+}

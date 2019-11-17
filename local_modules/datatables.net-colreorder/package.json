@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "datatables.net": "^1.10.15",
+    "jquery": ">=1.7"
+  },
+  "description": "ColReorder for DataTables ",
+  "files": [
+    "js/**/*.js"
+  ],
+  "license": "MIT",
+  "main": "js/dataTables.colReorder.js",
+  "name": "datatables.net-colreorder",
+  "version": "1.5.1"
+}

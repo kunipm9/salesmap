@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.74" height="53.74" viewBox="0 0 53.74 53.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a7cac;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="グループ_557" data-name="グループ 557" transform="translate(0.128 2.492)">
+    <circle id="楕円形_83" data-name="楕円形 83" class="cls-1" cx="19" cy="19" r="19" transform="translate(-0.128 24.378) rotate(-45)"/>
+    <g id="グループ_730" data-name="グループ 730" transform="translate(16.922 -1.169)">
+      <path id="パス_385" data-name="パス 385" class="cls-2" d="M14.814,18.794a7.015,7.015,0,0,0-9.92,9.92l4.742,5.669a.306.306,0,0,0,.491,0l4.742-5.669A7.091,7.091,0,0,0,14.814,18.794Z"/>
+    </g>
+  </g>
+</svg>

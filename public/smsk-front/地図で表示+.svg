@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="35.5" viewBox="0 0 106 35.5">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        font-size: 11px;
+        font-family: HiraKakuProN-W6, Hiragino Kaku Gothic ProN;
+      }
+
+      .cls-2 {
+        fill: #3a7cac;
+      }
+
+      .cls-3, .cls-4 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-4 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="グループ_425" data-name="グループ 425" transform="translate(-247 -497.4)">
+    <text id="地図で表示" class="cls-1" transform="translate(247 520)"><tspan x="0" y="0">地図で表示</tspan></text>
+    <g id="グループ_424" data-name="グループ 424">
+      <circle id="楕円形_94" data-name="楕円形 94" class="cls-2" cx="17.75" cy="17.75" r="17.75" transform="translate(317.5 497.4)"/>
+      <g id="_809_pin_f" data-name="809_pin_f" transform="translate(325 503.475)">
+        <rect id="長方形_674" data-name="長方形 674" class="cls-3" width="20.525" height="20.525"/>
+        <path id="パス_169" data-name="パス 169" class="cls-4" d="M22.407,13.7c0,3.421-4.7,8.125-4.7,8.125S13,17.125,13,13.7a4.7,4.7,0,1,1,9.407,0Z" transform="translate(-7.441 -5.151)"/>
+        <circle id="楕円形_100" data-name="楕円形 100" class="cls-5" cx="1.283" cy="1.283" r="1.283" transform="translate(8.98 7.269)"/>
+        <path id="パス_170" data-name="パス 170" class="cls-4" d="M19.062,37.06c1.595.4,2.621,1,2.621,1.685,0,1.18-3.062,2.138-6.842,2.138S8,39.925,8,38.745c0-.684,1.026-1.283,2.621-1.685" transform="translate(-4.579 -21.213)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    "jsx-control-statements",
+    "inline-svg",
+    [
+      "module-resolver", {
+        "root": ["./"],
+        "alias": {
+          "@imports": "./imports",
+          "@public": "./public"
+        }
+      }
+    ]
+  ]
+}

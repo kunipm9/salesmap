@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.74" height="53.74" viewBox="0 0 53.74 53.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a7cac;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <g id="グループ_560" data-name="グループ 560" transform="translate(0.379 1.705)">
+    <path id="パス_156" data-name="パス 156" class="cls-1" d="M19.193,0A18.541,18.541,0,0,1,38,18.807,19.471,19.471,0,0,1,18.807,38,18.541,18.541,0,0,1,0,19.193,19.471,19.471,0,0,1,19.193,0Z" transform="translate(-0.379 25.165) rotate(-45)"/>
+    <g id="グループ_366" data-name="グループ 366" transform="translate(-309.179 -545.451)">
+      <line id="線_176" data-name="線 176" class="cls-2" x1="9.399" y2="9.399" transform="translate(329 570.646) rotate(-45)"/>
+      <line id="線_177" data-name="線 177" class="cls-2" x2="9.399" y2="9.399" transform="translate(329 570.646) rotate(-45)"/>
+    </g>
+  </g>
+</svg>

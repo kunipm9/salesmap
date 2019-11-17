@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.21" height="20.21" viewBox="0 0 20.21 20.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bebebe;
+        stroke: rgba(150,150,150,0);
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="グループ_464" data-name="グループ 464" transform="translate(-20.682 -213.462)">
+    <g id="長方形_662" data-name="長方形 662" class="cls-1" transform="translate(20.682 213.462)">
+      <rect class="cls-3" width="20.21" height="20.21" rx="6"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="19.21" height="19.21" rx="5.5"/>
+    </g>
+    <path id="合体_82" data-name="合体 82" class="cls-2" d="M10.567,0,4.351,8.7ZM0,5.595,4.351,8.7Z" transform="translate(25.407 219.418)"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.74" height="53.74" viewBox="0 0 53.74 53.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a7cac;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="グループ_645" data-name="グループ 645" transform="translate(-305.541 -318.517)">
+    <g id="グループ_644" data-name="グループ 644" transform="translate(305.541 318.058)">
+      <g id="グループ_305" data-name="グループ 305" transform="translate(0 0)">
+        <g id="グループ_304" data-name="グループ 304" transform="translate(0)">
+          <circle id="楕円形_84" data-name="楕円形 84" class="cls-1" cx="19" cy="19" r="19" transform="translate(0 27.329) rotate(-45)"/>
+        </g>
+      </g>
+    </g>
+    <g id="グループ_643" data-name="グループ 643" transform="translate(77 1)">
+      <g id="ファイル_フォルダのアイコン素材_1" data-name="ファイル・フォルダのアイコン素材 1" transform="translate(247 280.897)">
+        <path id="パス_369" data-name="パス 369" class="cls-2" d="M.742,66.659l2.326-5.311.193-.441a.388.388,0,0,1,.355-.232H14.559a.387.387,0,0,0,.387-.387V58.723h0V56.86a.387.387,0,0,0-.387-.387H9.09a.388.388,0,0,0-.33.184l-.679,1.1a.387.387,0,0,1-.33.184H.387A.387.387,0,0,0,0,58.33V66.5a.384.384,0,0,0,.014.082v.009A.385.385,0,0,0,.742,66.659Z"/>
+        <path id="パス_370" data-name="パス 370" class="cls-2" d="M23.812,201.233H9.711a.387.387,0,0,0-.355.232L6.318,208.4,5.6,210.048a.387.387,0,0,0,.355.543h14.1a.387.387,0,0,0,.355-.232l3.759-8.583A.387.387,0,0,0,23.812,201.233Z" transform="translate(-5.359 -139.433)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82.674" height="25.907" viewBox="0 0 82.674 25.907">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #5bb0ed;
+      }
+
+      .cls-1 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-3 {
+        fill: #5bb0ed;
+        stroke: rgba(0,0,0,0);
+        font-size: 13px;
+        font-family: HiraKakuProN-W6, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+    </style>
+  </defs>
+  <g id="グループ_527" data-name="グループ 527" transform="translate(-260 -392)">
+    <rect id="長方形_605" data-name="長方形 605" class="cls-1" width="80.674" height="23.907" rx="11.953" transform="translate(261 393)"/>
+    <g id="グループ_649" data-name="グループ 649" transform="translate(316.478 398.641)">
+      <path id="パス_347" data-name="パス 347" class="cls-2" d="M-66,1305.253h4.751v5.115" transform="translate(72.743 -1305.253)"/>
+      <path id="パス_348" data-name="パス 348" class="cls-2" d="M-62.442,1305.253l-7.138,7.486" transform="translate(73.969 -1305.253)"/>
+      <path id="パス_349" data-name="パス 349" class="cls-2" d="M-65.6,1331.17h-4.658v9.266h9.486V1335.4" transform="translate(70.259 -1328.641)"/>
+    </g>
+    <text id="MAP" class="cls-3" transform="translate(276.322 410.275)"><tspan x="0" y="0">MAP</tspan></text>
+  </g>
+</svg>

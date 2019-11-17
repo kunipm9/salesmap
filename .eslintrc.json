@@ -1,0 +1,55 @@
+{
+  "parser": "babel-eslint",
+  "settings": {
+    "import/resolver": "meteor"
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:jsx-control-statements/recommended"
+  ],
+  "plugins": [
+    "react",
+    "jsx-control-statements"
+  ],
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jsx-control-statements/jsx-control-statements": true
+  },
+  "rules": {
+    "no-underscore-dangle": "off",
+    "spaced-comment": "off",
+    "dot-notation": "off",
+    "import/no-absolute-path": "off",
+    "object-curly-spacing": "off",
+    "camelcase": "off",
+    "comma-dangle": "off",
+    "no-console": "off",
+    "react/prop-types": "off",
+    "jsx-control-statements/jsx-choose-not-empty": 1,
+    "jsx-control-statements/jsx-for-require-each": 1,
+    "jsx-control-statements/jsx-for-require-of": 1,
+    "jsx-control-statements/jsx-if-require-condition": 1,
+    "jsx-control-statements/jsx-otherwise-once-last": 1,
+    "jsx-control-statements/jsx-use-if-tag": 1,
+    "jsx-control-statements/jsx-when-require-condition": 1,
+    "jsx-control-statements/jsx-jcs-no-undef": 1,
+    "no-undef": 2,
+    "react/jsx-no-undef": [1, { "allowGlobals": true }]
+  },
+  "globals": {
+    "require": true,
+    "window": true,
+    "$": true,
+    "Meteor": true,
+    "Accounts": true,
+    "SimpleSchema": true,
+    "TAPi18n": true,
+    "Roles": true,
+    "global": true,
+    "TabularTables": true,
+    "Bert": true,
+    "T9n": true
+  }
+}

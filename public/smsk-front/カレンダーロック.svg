@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="336" height="249" viewBox="0 0 336 249">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.149;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="グループ_545" data-name="グループ 545" transform="translate(-18 -560)">
+    <rect id="長方形_673" data-name="長方形 673" class="cls-1" width="336" height="249" rx="8" transform="translate(18 560)"/>
+    <g id="グループ_544" data-name="グループ 544">
+      <g id="楕円形_130" data-name="楕円形 130" class="cls-2" transform="translate(144 651)">
+        <circle class="cls-4" cx="36" cy="36" r="36"/>
+        <circle class="cls-5" cx="36" cy="36" r="35"/>
+      </g>
+      <g id="グループ_543" data-name="グループ 543">
+        <g id="カギの閉じた錠のアイコン素材_3" data-name="カギの閉じた錠のアイコン素材 3" transform="translate(126.188 670.367)">
+          <path id="パス_357" data-name="パス 357" class="cls-3" d="M62.317,11.918h-.532V7.973a7.973,7.973,0,1,0-15.945,0v3.945h-.533a3.5,3.5,0,0,0-3.495,3.495v9.778a3.5,3.5,0,0,0,3.495,3.495H62.317a3.5,3.5,0,0,0,3.495-3.495V15.412A3.5,3.5,0,0,0,62.317,11.918ZM49.291,7.973a4.521,4.521,0,1,1,9.041,0v3.945H49.291Zm5.531,13.41.551,3.569H52.251l.55-3.569a2.487,2.487,0,1,1,2.021,0Z" transform="translate(0 0)"/>
+        </g>
+        <circle id="楕円形_131" data-name="楕円形 131" class="cls-3" cx="4.5" cy="4.5" r="4.5" transform="translate(176 687)"/>
+      </g>
+    </g>
+  </g>
+</svg>

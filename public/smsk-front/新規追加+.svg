@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="35.5" viewBox="0 0 95 35.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 11px;
+        font-family: HiraKakuProN-W6, Hiragino Kaku Gothic ProN;
+      }
+
+      .cls-2 {
+        fill: #3a7cac;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="グループ_423" data-name="グループ 423" transform="translate(-258 -552.4)">
+    <text id="新規追加" class="cls-1" transform="translate(258 574)"><tspan x="0" y="0">新規追加</tspan></text>
+    <g id="グループ_422" data-name="グループ 422">
+      <circle id="楕円形_93" data-name="楕円形 93" class="cls-2" cx="17.75" cy="17.75" r="17.75" transform="translate(317.5 552.4)"/>
+      <g id="グループ_366" data-name="グループ 366" transform="translate(0.406 0.24)">
+        <line id="線_176" data-name="線 176" class="cls-3" x1="8.028" y2="8.028" transform="translate(329 569.677) rotate(-45)"/>
+        <line id="線_177" data-name="線 177" class="cls-3" x2="8.028" y2="8.028" transform="translate(329 569.677) rotate(-45)"/>
+      </g>
+    </g>
+  </g>
+</svg>

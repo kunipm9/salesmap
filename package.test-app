@@ -1,0 +1,40 @@
+{
+  "name": "testapp",
+  "private": true,
+  "scripts": {
+    "start": "meteor run",
+    "test": "meteor test --once --driver-package meteortesting:mocha",
+    "test-app": "TEST_WATCH=1 meteor test --full-app --driver-package meteortesting:mocha",
+    "visualize": "meteor --production --extra-packages bundle-visualizer"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.1.5",
+    "bootstrap-confirmation2": "^2.4.2",
+    "datatables.net-bs": "^1.10.19",
+    "datatables.net-bs4": "./local_modules/datatables.net-bs4",
+    "datatables.net-buttons": "^1.5.4",
+    "datatables.net-buttons-bs": "^1.5.4",
+    "datatables.net-colreorder": "./local_modules/datatables.net-colreorder",
+    "datatables.net-colreorder-bs": "^1.5.1",
+    "datatables.net-fixedcolumns": "^3.2.6",
+    "datatables.net-fixedcolumns-bs": "^3.2.6",
+    "jquery": "^1.11.2",
+    "jquery-ui-sortable-npm": "^1.0.0",
+    "mdbreact": "./local_modules/mdbreact-4.8.3.tgz",
+    "meteor-node-stubs": "^0.4.1",
+    "popper.js": "^1.14.6",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-router-dom": "^4.3.1",
+    "simpl-schema": "1.4.3",
+    "underscore": "^1.9.1",
+    "uuid": "^3.3.2"
+  },
+  "meteor": {
+    "mainModule": {
+      "client": "client/main.jsx",
+      "server": "server/main.js"
+    },
+    "testModule": "tests/main.js"
+  }
+}

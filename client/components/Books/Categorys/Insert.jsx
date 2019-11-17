@@ -1,0 +1,68 @@
+/// Sys - AutoForm
+import Insert from "@imports/ui/crud/Insert";
+/// Sys - AutoForm --
+
+/// Custom - AutoForm - collection
+import { Books_Categorys_Collection } from "@imports/api/Books/Categorys_Collection";
+console.assert(
+  Books_Categorys_Collection,
+  "Books_Categorys_Collection is undefined."
+);
+/// Custom - AutoForm - collection --
+
+/// Sys - Role
+import { checkSystemRole, checkAppRole } from "@imports/ui/crud/checkRole";
+/// Sys - Role --
+
+/// Custom - Role - check permission
+/**
+ *
+ *
+ * @param {*} mode
+ * @returns
+ */
+export const Books_Categorys_Insert_ComponentInfo = mode => {
+  if (!checkAppRole("Books.Categorys", mode)) {
+    return null;
+  }
+
+  if (checkSystemRole()) {
+    return null;
+  }
+
+  return { title: "Books/Categorys/Insert", path: "/Books/Categorys/Insert" };
+};
+/// Custom - Role - check permission --
+
+/**
+ *
+ *
+ * @export
+ * @class Books_Categorys_Insert
+ * @extends {Insert}
+ */
+export class Books_Categorys_Insert extends Insert {
+  "use strict";
+
+  /**
+   *Creates an instance of Books_Categorys_Insert.
+   * @param {*} props
+   * @memberof Books_Categorys_Insert
+   */
+  constructor(props) {
+    super(props);
+
+    /// Custom - Role - check permission
+    this.ComponentInfo = Books_Categorys_Insert_ComponentInfo;
+    /// Custom - Role - check permission --
+
+    /// Custom - AutoForm - rebuild field
+    this.Collection = Books_Categorys_Collection;
+    this.Form_name = this.Collection._name;
+    /// Custom - AutoForm - rebuild field --
+
+    /// Sys - AutoForm - rebuild field
+    this.postConstructor();
+    /// Sys - AutoForm - rebuild field --
+  }
+}

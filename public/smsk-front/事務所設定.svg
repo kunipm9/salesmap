@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.544" height="16.098" viewBox="0 0 22.544 16.098">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <g id="ビルのアイコン素材_3" data-name="ビルのアイコン素材 3" transform="translate(0 -73.201)">
+    <path id="パス_305" data-name="パス 305" class="cls-1" d="M22.544,77.325h0v-.007H15.693V73.2H6.852v4.117H0V89.3H22.544V77.325ZM1.105,88.194V78.423H6.852v9.771Zm9.145-4.126v4.126H7.957V74.306h6.631V88.194H12.294V84.068Zm11.189,4.126H15.693V78.423h5.747Z"/>
+    <rect id="長方形_901" data-name="長方形 901" class="cls-1" width="1.216" height="2.1" transform="translate(9.338 76.738)"/>
+    <rect id="長方形_902" data-name="長方形 902" class="cls-1" width="1.216" height="2.1" transform="translate(11.99 76.738)"/>
+    <rect id="長方形_903" data-name="長方形 903" class="cls-1" width="1.216" height="2.1" transform="translate(9.338 80.237)"/>
+    <rect id="長方形_904" data-name="長方形 904" class="cls-1" width="1.216" height="2.1" transform="translate(11.99 80.237)"/>
+    <path id="パス_306" data-name="パス 306" class="cls-1" d="M399.683,235.087v.007H400.9v-2.1h-1.216v2.093Z" transform="translate(-382.084 -152.757)"/>
+    <path id="パス_307" data-name="パス 307" class="cls-1" d="M399.683,314.571H400.9v-2.1h-1.216v2.093h0Z" transform="translate(-382.084 -228.734)"/>
+    <path id="パス_308" data-name="パス 308" class="cls-1" d="M84.707,232.994v2.093h0v.007h1.216v-2.1Z" transform="translate(-80.977 -152.757)"/>
+    <path id="パス_309" data-name="パス 309" class="cls-1" d="M84.714,312.471h-.007v2.093h0v.007h1.216v-2.1h-1.2Z" transform="translate(-80.977 -228.734)"/>
+  </g>
+</svg>

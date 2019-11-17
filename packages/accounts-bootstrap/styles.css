@@ -1,0 +1,30 @@
+form.accounts button, form.accounts .btn, form.accounts a {
+  margin-right: 6px;
+}
+form.accounts .social-buttons .btn {
+  margin-bottom: 0.75em;
+}
+form.accounts .form-group.required .form-control-label:after {
+  content: " *";
+  color: red;
+}
+form.account .form-group .btn-primary {
+  background-color: #0b51c5 !important;
+}
+form.accounts .btn {
+  color: #000;
+  background-color: #ccc;
+}
+form.accounts .or-sep p {
+  margin-left: 2px;
+  margin-top: 5px;
+  margin-bottom: 3px;
+}
+form.accounts .btn-social {
+  color: #fff;
+}
+a.forget-account {
+  margin-left: 2px;
+  color: #04b !important;
+}
+

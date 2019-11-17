@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.802" height="54.802" viewBox="0 0 54.802 54.802">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999;
+      }
+
+      .cls-2 {
+        fill: #686868;
+      }
+    </style>
+  </defs>
+  <g id="グループ_210" data-name="グループ 210" transform="translate(-1305.898 -285.002)">
+    <g id="グループ_208" data-name="グループ 208" transform="translate(1305.898 285.002)">
+      <g id="グループ_207" data-name="グループ 207" transform="translate(0 0)">
+        <circle id="楕円形_57" data-name="楕円形 57" class="cls-1" cx="19.376" cy="19.376" r="19.376" transform="translate(0 27.401) rotate(-45)"/>
+      </g>
+    </g>
+    <g id="グループ_209" data-name="グループ 209" transform="translate(1321.645 302.097)">
+      <path id="パス_88" data-name="パス 88" class="cls-2" d="M1452.364,423.115h-5.419v-.806a2.222,2.222,0,0,0-2.217-2.217h-5.475a2.222,2.222,0,0,0-2.217,2.217v.806h-5.419a1.3,1.3,0,0,0-1.287,1.287v13.592a1.3,1.3,0,0,0,1.287,1.287h20.734a1.3,1.3,0,0,0,1.288-1.287V424.4A1.258,1.258,0,0,0,1452.364,423.115Z" transform="translate(-1430.331 -420.092)"/>
+      <rect id="長方形_566" data-name="長方形 566" class="cls-1" width="2.888" height="1.534" transform="translate(18.898 5.318)"/>
+      <path id="パス_89" data-name="パス 89" class="cls-1" d="M1480.249,471.71a6.124,6.124,0,1,1,6.124-6.124A6.126,6.126,0,0,1,1480.249,471.71Zm0-10.647a4.512,4.512,0,1,0,4.512,4.512A4.52,4.52,0,0,0,1480.249,461.063Z" transform="translate(-1468.583 -454.48)"/>
+    </g>
+  </g>
+</svg>

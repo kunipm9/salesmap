@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.74" height="53.74" viewBox="0 0 53.74 53.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a7cac;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.7px;
+      }
+    </style>
+  </defs>
+  <g id="グループ_560" data-name="グループ 560" transform="translate(0.379 1.705)">
+    <g id="グループ_293" data-name="グループ 293" transform="translate(-0.252 0.249)">
+      <path id="パス_156" data-name="パス 156" class="cls-1" d="M19.193,0A18.541,18.541,0,0,1,38,18.807,19.471,19.471,0,0,1,18.807,38,18.541,18.541,0,0,1,0,19.193,19.471,19.471,0,0,1,19.193,0Z" transform="translate(-0.128 24.916) rotate(-45)"/>
+    </g>
+    <g id="_511_s_f" data-name="511_s_f" transform="translate(17.453 15.819)">
+      <rect id="長方形_862" data-name="長方形 862" class="cls-2" width="18.729" height="18.729"/>
+      <circle id="楕円形_124" data-name="楕円形 124" class="cls-3" cx="1.951" cy="1.951" r="1.951" transform="translate(10.535 3.902)"/>
+      <line id="線_238" data-name="線 238" class="cls-3" x2="7.023" transform="translate(0.78 5.853)"/>
+      <line id="線_239" data-name="線 239" class="cls-3" x2="3.317" transform="translate(14.632 5.853)"/>
+      <line id="線_240" data-name="線 240" class="cls-3" x2="3.512" transform="translate(0.78 12.876)"/>
+      <circle id="楕円形_125" data-name="楕円形 125" class="cls-3" cx="1.951" cy="1.951" r="1.951" transform="translate(4.292 10.925)"/>
+      <line id="線_241" data-name="線 241" class="cls-3" x2="7.414" transform="translate(10.535 12.876)"/>
+    </g>
+  </g>
+</svg>

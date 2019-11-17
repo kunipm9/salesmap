@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.98" height="32.98" viewBox="0 0 32.98 32.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cce1f2;
+      }
+
+      .cls-2 {
+        fill: #85acc3;
+      }
+    </style>
+  </defs>
+  <g id="グループ_531" data-name="グループ 531" transform="translate(-46.02 -368.163)">
+    <circle id="楕円形_129" data-name="楕円形 129" class="cls-1" cx="16.49" cy="16.49" r="16.49" transform="translate(46.02 368.163)"/>
+    <path id="person-1824147" class="cls-2" d="M590.243,564.509a5.662,5.662,0,1,0,5.661,5.661A5.662,5.662,0,0,0,590.243,564.509Zm5.084,11.209a7.5,7.5,0,0,1-10.161,0,10.372,10.372,0,0,0-4.527,8.653q0,.076.007.152h19.2q0-.076.007-.152a10.372,10.372,0,0,0-4.521-8.657Z" transform="translate(-527.739 -190.51)"/>
+  </g>
+</svg>

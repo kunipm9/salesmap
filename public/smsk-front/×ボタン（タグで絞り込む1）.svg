@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.999" height="17.999" viewBox="0 0 17.999 17.999">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d4d4d4;
+        stroke: rgba(112,112,112,0);
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="グループ_468" data-name="グループ 468" transform="translate(-333.9 -520.9)">
+    <g id="楕円形_35" data-name="楕円形 35" class="cls-1" transform="translate(333.9 520.9)">
+      <circle class="cls-3" cx="9" cy="9" r="9"/>
+      <circle class="cls-4" cx="9" cy="9" r="8.5"/>
+    </g>
+    <path id="合体_44" data-name="合体 44" class="cls-2" d="M3.774,3.774,0,7.549,3.774,3.774,0,0,3.774,3.774,7.549,0,3.774,3.774,7.549,7.549Z" transform="translate(339.095 526.094)"/>
+  </g>
+</svg>

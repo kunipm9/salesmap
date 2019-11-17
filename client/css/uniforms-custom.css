@@ -1,0 +1,201 @@
+/**** uniforms List */
+.btn-floating.btn-xsm {
+    width: 22px;
+    height: 22px;
+}
+
+.btn-floating.btn-xsm i {
+    font-size: 1rem;
+    line-height: 22px;
+}
+
+.btn .fa-25x {
+    font-size: 1.4em !important;
+}
+
+.uniforms-list-handle {
+    width: 64px !important;
+    max-width: 64px !important;
+}
+
+.uniforms-list-handle .btn-floating {
+    margin: 4px;
+}
+
+.uniforms-list-row {
+    padding-top: 8px;
+}
+
+.uniforms-list-row .form-group {
+    margin-bottom: 0.2rem;
+}
+
+.uniforms-list-row:not(:last-child) {
+    padding-top: 8px;
+    box-shadow: 0px 5px 3px -3px rgba(0,0,0,0.6);
+    -webkit-box-shadow: 0px 5px 3px -3px rgba(0,0,0,0.16);
+    -moz-box-shadow: 0px 5px 3px -3px rgba(0,0,0,0.16);
+}
+
+.card-body.uniforms-list-body {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+
+.card-footer.uniforms-list-control {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+/**** -- uniforms List */
+
+/**** uniforms Nest */
+.card.uniforms-nest-card {
+    margin-bottom: 1.25rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+
+.card-body.uniforms-nest-card-body {
+    padding-bottom: 0;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+
+.row.uniforms-nest-body {
+    margin-left: 0;
+    margin-right: 0;
+}
+/**** -- uniforms Nest */
+
+
+/**** awesome-bootstrap-checkbox */
+form.form .field .checkbox.checkbox-inline {
+    margin-right: 16px;
+}
+
+.form .form-group .checkbox-inline label {
+  font-weight: normal;
+}
+/**** -- awesome-bootstrap-checkbox */
+
+/**** checkbox-inline */
+.form .form-group .checkbox.custom-control-inline {
+  padding-left: 24px;
+  margin-right: 32px;
+}
+/**** -- checkbox-inline */
+
+/**** radio-inline */
+.form-check-input[type="radio"]:not(:checked) + label, .form-check-input[type="radio"]:checked + label, label.btn input[type="radio"]:not(:checked) + label, label.btn input[type="radio"]:checked + label {
+  padding-left: 28px !important;
+  font-weight: normal;
+}
+
+.form .form-group .radio.custom-control-inline {
+  padding-left: 0px;
+  margin-right: 32px;
+}
+/**** -- radio-inline */
+
+/**** radio/checkbox */
+.form .form-group .checkbox.custom-control-inline label {
+  font-weight: normal;
+}
+.form .form-group .checkbox label {
+  font-weight: normal;
+}
+
+.form .form-group .radio.custom-control-inline label {
+  font-weight: normal;
+}
+.form .form-group .radio label {
+  font-weight: normal;
+}
+/**** -- radio/checkbox */
+
+
+/**** disabled */
+.checkbox input[type="checkbox"]:disabled + label, .checkbox input[type="radio"]:disabled + label {
+    opacity: 1.0 !important;
+}
+
+.radio input[type="radio"]:disabled + label {
+    opacity: 1.0 !important;
+}
+
+select:disabled {
+  color: black !important;
+}
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+  background-color: #fff !important;
+}
+/**** -- disabled */
+
+
+/**** button */
+.btn {
+  white-space: nowrap !important;
+}
+
+.btn.btnfont {
+  padding: 0.60rem 1.6rem !important;
+}
+
+.btn.btnfont-tabular {
+  padding: 0.35rem 1.6rem !important;
+}
+/**** -- button */
+
+
+/**** confirm */
+.confirmation-buttons .btn-group {
+    width: max-content;
+}
+
+.confirmation-buttons .btn-group .btn {
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.popover {
+    width: max-content;
+}
+/**** -- confirm */
+
+
+.form-control:focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25) !important;
+}
+
+label {
+  font-weight: bold;
+}
+
+.no-gutters .col {
+    padding-right:2px !important;
+    padding-left:0px;
+}
+
+/**** text */
+.font-size-1rem {
+    font-size: 1rem;
+}
+
+.font-size-11rem {
+    font-size: 1.1rem;
+}
+
+.font-size-12rem {
+    font-size: 1.2rem;
+}
+/**** -- text */
+
+.modal {
+  -webkit-overflow-scrolling: touch;
+  overflow-scrolling: touch;
+}

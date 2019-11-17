@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="35.5" viewBox="0 0 128 35.5">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        font-size: 11px;
+        font-family: HiraKakuProN-W6, Hiragino Kaku Gothic ProN;
+      }
+
+      .cls-2 {
+        fill: #3a7cac;
+      }
+    </style>
+  </defs>
+  <g id="グループ_433" data-name="グループ 433" transform="translate(-225 -277.4)">
+    <text id="宛名ラベル作成" class="cls-1" transform="translate(225 300)"><tspan x="0" y="0">宛名ラベル作成</tspan></text>
+    <g id="グループ_432" data-name="グループ 432">
+      <circle id="楕円形_98" data-name="楕円形 98" class="cls-2" cx="17.75" cy="17.75" r="17.75" transform="translate(317.5 277.4)"/>
+      <g id="printer_1_" data-name="printer (1)" transform="translate(328.195 287.915)">
+        <g id="グループ_365" data-name="グループ 365" transform="translate(0.007)">
+          <rect id="長方形_686" data-name="長方形 686" class="cls-3" width="4.717" height="0.944" transform="translate(4.717 11.32)"/>
+          <path id="パス_186" data-name="パス 186" class="cls-3" d="M91.928.943h7.547V2.83h.943V.943A.943.943,0,0,0,99.475,0H91.928a.944.944,0,0,0-.943.943V2.83h.943Z" transform="translate(-88.155)"/>
+          <rect id="長方形_687" data-name="長方形 687" class="cls-3" width="5.66" height="0.943" transform="translate(4.717 9.434)"/>
+          <path id="パス_187" data-name="パス 187" class="cls-3" d="M14.157,121.3H.95a.944.944,0,0,0-.943.943v5.66a.943.943,0,0,0,.943.943H2.837v2.83a.943.943,0,0,0,.943.943h7.547a.943.943,0,0,0,.943-.943v-2.83h1.887a.943.943,0,0,0,.943-.943v-5.66A.943.943,0,0,0,14.157,121.3Zm-2.83,10.377H3.781v-5.66h7.547v5.66Zm1.887-7.547a.943.943,0,1,1,.944-.943A.943.943,0,0,1,13.214,124.134Z" transform="translate(-0.007 -117.53)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

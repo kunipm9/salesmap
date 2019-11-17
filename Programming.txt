@@ -1,0 +1,131 @@
+- 解説
+- 資料
+- 行うこと
+
+
+●アプリケーションの追加
+
+・アプリケーションの構造
+
+
+・パターンについて
+  Insert(新規登録)/List(一覧)/Update(修正,削除,復元,Single Record)/View(参照他)の雛形が用意済み
+
+・ファイルの追加/カスタマイズ
+
+  ・データベース定義
+  imports/api/(APPGROUP)/(APP)_Collection.js
+
+  ・一覧定義
+  imports/api/(APPGROUP)/(APP)_Tabular.js
+  packages/application-buttons/templates.html 内に (APPGROUP)_(APP)_List_Buttons
+
+  ・画面定義
+  client/components/(APPGROUP)/(APP)/(PATTERN).js
+
+  ・Roleの設定
+  client/components/AppRolesSchema.js 内に '(APPGROUP).(APPROLE)'を定義
+  各画面定義内の (APPGROUP)_(APP)_(PATTERN)_ComponentInfo にて当画面のアクセスに必用な権限を checkAppRole1にてチェック
+    ユーザが (APPGROUP).(APPROLE) に対するcreate/read/update/delete 権限 を有するか
+    ユーザへの権限付与は、Users/Users アプリにて行う
+
+  ・Routerの修正
+ 
+
+●テクニック
+
+[Insertパターン]
+・ComponentInfo記述ルール
+・Autoform記述ルール
+
+[Updata/削除/復元パターン]
+・ComponentInfo記述ルール
+・Autoform記述ルール
+
+[Listパターン]
+・ComponentInfo記述ルール
+・tabular記述ルール
+・削除レコード
+
+[Singleレコードパターン]
+・ComponentInfo記述ルール
+・新規レコード登録時のInitioal Valueの設定方法
+・検索キーの設定方法
+
+[Viewパターン]
+・ComponentInfo記述ルール
+・Select形式フィールドのLabelデータの取得
+・JSX用Syntax Sugar
+
+
+
+[共通技術]
+・Simple Schema
+  ・通常
+  ・共通Schema
+  ・Client only Schema
+・Autoform
+  ・Sortable List
+  ・ImageField
+  ・ExcelField
+  ・react-select
+  ・DateTimePicker
+  ・IME制御
+  ・カスタムField作成方法
+    ・React標準
+    ・Schema上での記述方法
+・Simple Schema・Autoform
+  ・Rebuild FIeld/Rebuild Form
+  ・customValidator
+    ・imports/api/customValidator.js
+      ・customValidatorCheckOtherEmails
+      ・customValidatorCheckExistsRecord
+      ・customValidatorCheckExistsRecordInUserGroup
+      ・customValidatorCheckDuplicateValueInArrayField
+・Role/Router
+  ・Users Collection
+    ・imports/api/Users/Users_Collection.js
+    ・UserProfileSchema/roles
+      ・organization
+        ・Roles.GLOBAL_GROUP
+        ・UserGroupsのID
+      ・roles
+        ・admin
+      ・approles
+        ・client/components/AppRolesSchema.js
+  ・AppRolesSchema
+  ・ComponentInfo
+    ・this.props.match.params
+  ・Router
+  ・NavBar/SideBar
+  ・History
+・Collection
+  ・Collection
+  ・Collection Hooks
+  ・Transaction
+  ・Migration
+  ・Soft Delete
+  ・楽観Lock
+・Reactive Local Strage
+※ Meteor Template
+・i18n
+
+[個別技術]
+・Client側バッチ処理用汎用WebWorker
+・Calendarコンポーネント
+・パスワード付Zipファイル生成
+・Social Account
+・Mongo Transaction
+・Lazy Load
+・地図
+
+[デザイン]
+・MDBootstrap
+・Smart Phone レイアウト
+
+[共通ルール]
+・コメント記述ルール
+・Layoutコーディングルール
+・ネーミングルール
+
+

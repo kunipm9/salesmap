@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.74" height="53.74" viewBox="0 0 53.74 53.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a7cac;
+      }
+
+      .cls-2, .cls-3 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="グループ_556" data-name="グループ 556" transform="translate(0.379 1.705)">
+    <g id="グループ_424" data-name="グループ 424" transform="translate(-225.379 -473.451)">
+      <path id="パス_156" data-name="パス 156" class="cls-1" d="M19.193,0A18.541,18.541,0,0,1,38,18.807,19.471,19.471,0,0,1,18.807,38,18.541,18.541,0,0,1,0,19.193,19.471,19.471,0,0,1,19.193,0Z" transform="translate(225 498.617) rotate(-45)"/>
+      <g id="_809_pin_f" data-name="809_pin_f" transform="translate(240.8 485.585)">
+        <rect id="長方形_674" data-name="長方形 674" class="cls-2" width="22.305" height="22.305"/>
+        <path id="パス_169" data-name="パス 169" class="cls-3" d="M23.223,14.111c0,3.717-5.111,8.829-5.111,8.829S13,17.829,13,14.111a5.111,5.111,0,1,1,10.223,0Z" transform="translate(-6.959 -4.818)"/>
+        <circle id="楕円形_100" data-name="楕円形 100" class="cls-4" cx="1.394" cy="1.394" r="1.394" transform="translate(9.758 7.9)"/>
+        <path id="パス_170" data-name="パス 170" class="cls-3" d="M20.021,37.06c1.733.437,2.848,1.087,2.848,1.831,0,1.283-3.327,2.323-7.435,2.323S8,40.173,8,38.891c0-.743,1.115-1.394,2.848-1.831" transform="translate(-4.283 -19.839)"/>
+      </g>
+    </g>
+  </g>
+</svg>

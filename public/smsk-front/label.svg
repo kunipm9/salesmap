@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.74" height="53.74" viewBox="0 0 53.74 53.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a7cac;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="グループ_432" data-name="グループ 432" transform="translate(-225 -185.517)">
+    <g id="printer_1_" data-name="printer (1)" transform="translate(243.195 203.915)">
+      <circle id="楕円形_84" data-name="楕円形 84" class="cls-1" cx="19" cy="19" r="19" transform="translate(-18.195 8.472) rotate(-45)"/>
+      <g id="グループ_365" data-name="グループ 365" transform="translate(0.286 0.279)">
+        <rect id="長方形_686" data-name="長方形 686" class="cls-2" width="5.414" height="1.083" transform="translate(5.414 12.994)"/>
+        <path id="パス_186" data-name="パス 186" class="cls-2" d="M92.068,1.083h8.663V3.249h1.083V1.083A1.083,1.083,0,0,0,100.731,0H92.068a1.083,1.083,0,0,0-1.083,1.083V3.249h1.083Z" transform="translate(-87.736)"/>
+        <rect id="長方形_687" data-name="長方形 687" class="cls-2" width="6.497" height="1.083" transform="translate(5.414 10.829)"/>
+        <path id="パス_187" data-name="パス 187" class="cls-2" d="M16.25,121.3H1.09a1.083,1.083,0,0,0-1.083,1.083v6.5a1.083,1.083,0,0,0,1.083,1.083H3.256v3.249A1.083,1.083,0,0,0,4.339,134.3H13a1.082,1.082,0,0,0,1.083-1.083v-3.249H16.25a1.082,1.082,0,0,0,1.083-1.083v-6.5A1.083,1.083,0,0,0,16.25,121.3ZM13,133.216H4.339v-6.5H13v6.5Zm2.165-8.663a1.083,1.083,0,1,1,1.083-1.083A1.082,1.082,0,0,1,15.167,124.553Z" transform="translate(-0.007 -116.972)"/>
+      </g>
+    </g>
+  </g>
+</svg>

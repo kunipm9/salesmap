@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.74" height="53.74" viewBox="0 0 53.74 53.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a7cac;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="グループ_558" data-name="グループ 558" transform="translate(0 -0.459)">
+    <g id="グループ_305" data-name="グループ 305" transform="translate(0 0)">
+      <g id="グループ_304" data-name="グループ 304" transform="translate(0)">
+        <circle id="楕円形_84" data-name="楕円形 84" class="cls-1" cx="19" cy="19" r="19" transform="translate(0 27.329) rotate(-45)"/>
+      </g>
+    </g>
+    <path id="パス_143" data-name="パス 143" class="cls-2" d="M514.821,466.384a7.454,7.454,0,0,0-5.234-2.186,7.279,7.279,0,0,0-5.234,2.186c-3.089,3.22-3.373,7.486.022,12,2.506,3.332,3.945,5.048,5,5.731a.291.291,0,0,0,.429,0c1.053-.683,2.34-2.52,5-5.731C517.537,475.077,517.737,469.3,514.821,466.384Zm-5.234,8.523a3.256,3.256,0,1,1,3.257-3.256A3.256,3.256,0,0,1,509.587,474.906Z" transform="translate(-482.672 -446.856)"/>
+  </g>
+</svg>

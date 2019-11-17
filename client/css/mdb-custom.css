@@ -1,0 +1,49 @@
+.modal-dialog {
+  max-width: 100% !important;
+}
+
+.btn.btn-link.btn-link-custom {
+  color: rgb(82, 168, 255) !important;
+  font: 400 13.3333px Arial;
+}
+
+
+.modal.fade .modal-dialog{
+  transition: 0.1s ease-out,-webkit-transform 0.1s ease-out !important;
+}
+
+.modal.fade.left:not(.show) .modal-dialog {
+  transform: translate3d(-25%, 0, 0);
+  opacity: 0;
+}
+
+.slider-fullheight .slider-frame .slider-list .slider-slide.slide-visible {
+  height: calc(100vh - 114px) !important;
+}
+
+.react-autosuggest__input {
+  width: 100%;
+}
+
+.znt_map_base {
+  position: fixed !important;
+}
+
+.znt_map_base > div:last-child > div:first-child  {
+  top: unset !important;
+  bottom: 100px;
+  position: fixed !important;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  overflow: hidden !important;
+}
+
+body.mdbmodal-open {
+  position: fixed;
+  width: 100%;
+}

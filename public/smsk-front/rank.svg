@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.74" height="53.74" viewBox="0 0 53.74 53.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a7cac;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="グループ_645" data-name="グループ 645" transform="translate(-305 -318.517)">
+    <circle id="楕円形_84" data-name="楕円形 84" class="cls-1" cx="19" cy="19" r="19" transform="translate(305 345.387) rotate(-45)"/>
+    <g id="starred-badge" transform="translate(245.57 335.855)">
+      <g id="グループ_362" data-name="グループ 362" transform="translate(79.931)">
+        <g id="グループ_361" data-name="グループ 361" transform="translate(0)">
+          <path id="パス_174" data-name="パス 174" class="cls-2" d="M93.094,6.582a6.581,6.581,0,1,0-9.148,6.061L82.41,19.3l4.254-3,4.251,3-1.406-6.868A6.586,6.586,0,0,0,93.094,6.582ZM86.51,11.335a4.751,4.751,0,1,1,4.754-4.752A4.753,4.753,0,0,1,86.51,11.335Z" transform="translate(-79.931)"/>
+          <path id="パス_175" data-name="パス 175" class="cls-2" d="M155.664,68.1l-.909-2.8-.909,2.8H150.9l2.383,1.732-.909,2.8,2.382-1.729,2.382,1.729-.909-2.8L158.61,68.1Z" transform="translate(-148.173 -62.788)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+#sidenav-overlay {
+  z-index: 1035 !important;
+}
+
+.side-nav {
+  opacity: 0.2 !important;
+  transform: translateX(-100%) !important;
+}
+
+.side-slide-enter {
+  opacity: 0.2 !important;
+  transform: translateX(-100%) !important;
+}
+
+.side-slide-enter-active {
+  opacity: 1 !important;
+  transform: translateX(0%) !important;
+  transition: transform 200ms ease-out, opacity 200ms ease !important;
+}
+
+.side-slide-enter-done {
+  opacity: 1 !important;
+  transform: translateX(0%) !important;
+  transition: all 200ms ease-out !important;
+}
+
+.side-slide-exit {
+  opacity: 1 !important;
+  transform: translateX(0%) !important;
+  transition: all 200ms ease-out !important;
+}
+
+.side-slide-exit-active {
+  opacity: 0.2 !important;
+  transform: translateX(-100%) !important;
+  transition: all 200ms ease-out !important;
+}
+
+.side-slide-exit-done {
+  opacity: 1 !important;
+  transform: translateX(-100%) !important;
+  transition: all 200ms ease-out !important;
+}

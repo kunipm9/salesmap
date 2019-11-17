@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.508" height="37.055" viewBox="0 0 46.508 37.055">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2a3f54;
+        stroke-width: 1.5px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-linejoin: round;
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <g id="グループ_834" data-name="グループ 834" transform="translate(-304.637 -13.25)">
+    <g id="グループ_437" data-name="グループ 437" transform="translate(0 -6)">
+      <rect id="長方形_4" data-name="長方形 4" class="cls-1" width="45.008" height="35.555" rx="4" transform="translate(305.387 20)"/>
+    </g>
+    <path id="合体_87" data-name="合体 87" class="cls-2" d="M-445,6.92l8.189,6.92ZM-436.81,0-445,6.92Z" transform="translate(-112.226 38.84) rotate(180)"/>
+  </g>
+</svg>

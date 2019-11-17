@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a7cac;
+        stroke: #fff;
+        stroke-width: 0.8px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="グループ_564" data-name="グループ 564" transform="translate(-77 -96)">
+    <g id="楕円形_134" data-name="楕円形 134" class="cls-1" transform="translate(77 96)">
+      <circle class="cls-3" cx="7.5" cy="7.5" r="7.5"/>
+      <circle class="cls-4" cx="7.5" cy="7.5" r="7.1"/>
+    </g>
+    <g id="星アイコン6" transform="translate(80.299 87.653)">
+      <path id="パス_356" data-name="パス 356" class="cls-2" d="M8.7,14.5a.462.462,0,0,0-.439-.32H5.607L4.8,11.667a.461.461,0,0,0-.878,0l-.808,2.514H.462a.461.461,0,0,0-.269.836l2.15,1.544-.828,2.513a.461.461,0,0,0,.711.517L4.36,18.027l2.134,1.564a.462.462,0,0,0,.711-.517l-.828-2.513,2.15-1.544A.461.461,0,0,0,8.7,14.5Z" transform="translate(0)"/>
+    </g>
+  </g>
+</svg>

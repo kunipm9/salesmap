@@ -1,0 +1,19 @@
+{
+  "name": "スマート選挙",
+  "short_name": "スマート選挙",
+  "start_url": "./",
+  "display": "standalone",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "smsk-front/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "smsk-front/logo-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}

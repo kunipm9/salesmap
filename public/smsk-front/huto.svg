@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.74" height="53.74" viewBox="0 0 53.74 53.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3aaca3;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="グループ_558" data-name="グループ 558" transform="translate(0.541 -0.459)">
+    <circle id="楕円形_84" data-name="楕円形 84" class="cls-1" cx="19" cy="19" r="19" transform="translate(-0.541 27.329) rotate(-45)"/>
+    <g id="_15205_更新済み_" data-name="15205 [更新済み]" transform="translate(19.659 18.05)">
+      <path id="パス_320" data-name="パス 320" class="cls-2" d="M199.883,115h-9.727l-1.917,2.946v15.3H201.8v-15.3Zm-9.032,1.281h8.337l1.063,1.633H189.789Zm-1.331,15.689V119.194h11V131.97Z" transform="translate(-188.24 -115)"/>
+      <rect id="長方形_962" data-name="長方形 962" class="cls-2" width="0.97" height="1.313" transform="translate(5.222 5.051)"/>
+      <rect id="長方形_963" data-name="長方形 963" class="cls-2" width="0.97" height="1.313" transform="translate(6.567 5.051)"/>
+      <rect id="長方形_964" data-name="長方形 964" class="cls-2" width="0.97" height="1.313" transform="translate(7.912 5.051)"/>
+      <rect id="長方形_965" data-name="長方形 965" class="cls-2" width="0.97" height="1.313" transform="translate(9.256 5.051)"/>
+      <rect id="長方形_966" data-name="長方形 966" class="cls-2" width="0.97" height="1.313" transform="translate(10.601 5.051)"/>
+    </g>
+  </g>
+</svg>

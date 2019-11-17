@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82.613" height="36.555" viewBox="0 0 82.613 36.555">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fff;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 12px;
+        font-family: HiraKakuProN-W6, Hiragino Kaku Gothic ProN;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2a3f54"/>
+      <stop offset="0.837" stop-color="#2a3f54"/>
+      <stop offset="0.97" stop-color="#d8dce0" stop-opacity="0.063"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.22"/>
+    </linearGradient>
+  </defs>
+  <g id="グループ_437" data-name="グループ 437" transform="translate(-281.887 -19.5)">
+    <rect id="長方形_4" data-name="長方形 4" class="cls-1" width="81.613" height="35.555" rx="4" transform="translate(282.387 20)"/>
+    <text id="詳細検索" class="cls-2" transform="translate(301.117 41.777)"><tspan x="0" y="0">詳細検索</tspan></text>
+  </g>
+</svg>

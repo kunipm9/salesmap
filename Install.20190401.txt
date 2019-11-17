@@ -1,0 +1,138 @@
+・Centos7.6
+・インフラストラクチャ/仮想ホスト/開発ツール
+・MEM: 5GB, HDD: 32GB
+
+・sudo nmcli connection add type ethernet ifname ens160 con-name eth0
+・sudo usermod -aG wheel kuni
+
+・sudo systemctl stop firewalld
+  sudo systemctl disable firewalld
+  sudo systemctl status firewalld
+
+・sudo yum install -y epel-release
+  sudo yum -y update
+
+・sudo yum install nodejs
+
+・npm install --save-dev babel-cli
+
+・sudo npm install -g eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y eslint babel-eslint eslint-import-resolver-meteor
+vi .eslintrc.json
+{
+  "parser": "babel-eslint",
+  "settings": {
+    "import/resolver": "meteor"
+  },
+  "extends": "airbnb",
+  "rules": {}
+}
+
+・curl https://install.meteor.com/ | sh
+・tar xvfz react-app.20190322-debuginfo.tgz
+  cd xxx;
+  npm i
+  meteor
+
+vi .vimrc
+" auto comment off
+augroup auto_comment_off
+    autocmd!
+    autocmd BufEnter * setlocal formatoptions-=r
+    autocmd BufEnter * setlocal formatoptions-=o
+augroup END
+
+・npm install yamup --global
+https://www.npmjs.com/package/yamup
+  - vi yamp.json
+  - yamup setup
+  - yamup deploy
+
+  - Serverにて
+    - sudo systemctl enable meteor
+    - sudo systemctl start meteor
+
+------------------
+・ubuntu 18.10 Server
+  - remove fd0
+    sudo vi /etc/modprobe.d/blacklist
+    blacklist floppy
+    reboot
+  - ssh root login setup
+    - sudo passwd root
+    - ## sudo passwd -l root (rootアカウントをロック)
+  - sshdでrootのパスワードログインを許可
+    - sudo vi /etc/ssh/sshd_config
+      - PermitRootLogin yes
+      - sudo systemctl restart sshd
+
+・sudo yum install docker
+  sudo yum install docker-compose
+・systemctl start docker
+  systemctl enable docker
+
+  vi docker-compose.yml
+  sudo docker-compose up -d
+  sudo docker exec -it mongo-db /bin/bash
+# mongo
+> use admin
+> db.auth("root","pass")
+> db.system.users.find()
+> use aaa
+> db.createUser({
+ user:"test1",
+ pwd:"test1",
+ roles:[
+  {
+     role:"readWrite",
+     db:"aaa"
+  }
+ ],
+ mechanisms:[
+  "SCRAM-SHA-1"
+ ]
+})
+
+------------------------------
+
+[Install / MacOS]
+
+(1) install nodejs
+
+(2) install node packages
+    npm install -g eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y eslint babel-eslint eslint-import-resolver-meteor
+
+(3) install mongodb
+    brew tap mongodb/brew
+    brew install mongodb-community@4.0
+
+    * add following line to .bash_profile
+    export PATH="/usr/local/opt/mongodb-community@4.0/bin:$PATH"
+
+(3) install meteor
+    curl https://install.meteor.com/ | sh
+    
+(4) setup project
+    git clone https://github.com/kunipm9/smsk-v2.git
+    cd  smsk-v2
+    npm install
+
+(5) create data directory
+    sudo mkdir -p /opt/data
+    sudo chmod gou+rwx /opt/data
+
+(6) start system
+    meteor
+    *after few minutes and access to http://localhost:3000/
+
+(7) setup initial data
+    (in another terminal)
+    cd smsk-v2/WORK
+    tar xvfz smsk-data-20190919.tgz
+    mongorestore --drop --port=3001 ./smsk-data-20190919/dump
+
+(8) login
+    access to http://localhost:3000/
+    Press the login button in the upper right corner
+      id: demo@demo.com
+      pw: demodemo
+

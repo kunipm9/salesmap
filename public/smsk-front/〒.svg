@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.98" height="27.98" viewBox="0 0 27.98 27.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bebebe;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 16px;
+        font-family: HiraKakuProN-W6, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.082em;
+      }
+    </style>
+  </defs>
+  <g id="グループ_528" data-name="グループ 528" transform="translate(-19.02 -94.163)">
+    <circle id="楕円形_129" data-name="楕円形 129" class="cls-1" cx="13.99" cy="13.99" r="13.99" transform="translate(19.02 94.163)"/>
+    <text id="_" data-name="〒" class="cls-2" transform="translate(25 115)"><tspan x="0" y="0">〒</tspan></text>
+  </g>
+</svg>

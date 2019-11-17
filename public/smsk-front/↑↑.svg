@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58.715" height="62.852" viewBox="0 0 58.715 62.852">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: rgba(255,34,34,0);
+        stroke-linejoin: round;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 13px;
+      }
+
+      .cls-2 {
+        stroke: #3a7cac;
+        stroke-width: 5px;
+      }
+
+      .cls-3 {
+        filter: url(#合体_105);
+      }
+    </style>
+    <filter id="合体_105" x="0" y="0" width="58.715" height="62.852" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_747" data-name="グループ 747" transform="translate(15.5 12.5)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -15.5, -12.5)">
+      <path id="合体_105-2" data-name="合体 105" class="cls-1" d="M-582.133-1611.928l13.857,16.132Zm-1.841,2.142,1.841-2.142L-595.99-1595.8Zm1.841-17.862,13.857,16.132Zm-1.841,2.142,1.841-2.142-13.857,16.132Z" transform="translate(611.49 1640.15)"/>
+    </g>
+    <g id="グループ_440" data-name="グループ 440" transform="translate(0 15.72)">
+      <path id="合体_83" data-name="合体 83" class="cls-2" d="M13.857,0,27.715,16.132Zm-1.84,2.142L13.857,0,0,16.132Z"/>
+      <path id="合体_83-2" data-name="合体 83" class="cls-2" d="M13.857,0,27.715,16.132Zm-1.84,2.142L13.857,0,0,16.132Z" transform="translate(0 -15.72)"/>
+    </g>
+  </g>
+</svg>

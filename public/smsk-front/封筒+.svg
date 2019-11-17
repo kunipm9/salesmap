@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="35.5" viewBox="0 0 73 35.5">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        font-size: 11px;
+        font-family: HiraKakuProN-W6, Hiragino Kaku Gothic ProN;
+      }
+
+      .cls-2 {
+        fill: #3aaca3;
+      }
+    </style>
+  </defs>
+  <g id="グループ_452" data-name="グループ 452" transform="translate(-280 -346)">
+    <text id="封筒" class="cls-1" transform="translate(280 367)"><tspan x="0" y="0">封筒</tspan></text>
+    <g id="グループ_451" data-name="グループ 451">
+      <circle id="楕円形_99" data-name="楕円形 99" class="cls-2" cx="17.75" cy="17.75" r="17.75" transform="translate(317.5 346)"/>
+      <g id="_15205_更新済み_" data-name="15205 [更新済み]" transform="translate(328.397 354)">
+        <path id="パス_320" data-name="パス 320" class="cls-3" d="M200.021,115H190.18l-1.94,2.981v15.486h13.721V117.981Zm-9.139,1.3h8.436l1.075,1.652H189.807Zm-1.346,15.875V119.244h11.129V132.17Z" transform="translate(-188.24 -115)"/>
+        <rect id="長方形_962" data-name="長方形 962" class="cls-3" width="0.982" height="1.328" transform="translate(5.284 5.111)"/>
+        <rect id="長方形_963" data-name="長方形 963" class="cls-3" width="0.982" height="1.328" transform="translate(6.645 5.111)"/>
+        <rect id="長方形_964" data-name="長方形 964" class="cls-3" width="0.982" height="1.328" transform="translate(8.005 5.111)"/>
+        <rect id="長方形_965" data-name="長方形 965" class="cls-3" width="0.982" height="1.328" transform="translate(9.366 5.111)"/>
+        <rect id="長方形_966" data-name="長方形 966" class="cls-3" width="0.982" height="1.328" transform="translate(10.727 5.111)"/>
+      </g>
+    </g>
+  </g>
+</svg>

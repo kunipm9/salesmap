@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "datatables.net": "1.10.19",
+    "jquery": ">=1.7"
+  },
+  "description": "DataTables for jQuery ",
+  "devDependencies": {},
+  "directories": {},
+  "files": [
+    "css/**/*.css",
+    "js/**/*.js",
+    "images/*"
+  ],
+  "license": "MIT",
+  "main": "js/dataTables.dataTables.js",
+  "maintainers": [
+    {
+      "name": "datatables",
+      "email": "npm@datatables.net"
+    }
+  ],
+  "name": "datatables.net-bs4",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "style": "css/dataTables.dataTables.css",
+  "version": "1.10.19"
+}

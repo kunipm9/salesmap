@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.5" height="35.5" viewBox="0 0 35.5 35.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a7cac;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="グループ_467" data-name="グループ 467" transform="translate(-317.5 -633.4)">
+    <circle id="楕円形_93" data-name="楕円形 93" class="cls-1" cx="17.75" cy="17.75" r="17.75" transform="translate(317.5 633.4)"/>
+    <g id="_511_s_f" data-name="511_s_f" transform="translate(327 643.25)">
+      <rect id="長方形_862" data-name="長方形 862" class="cls-2" width="15.75" height="15.75"/>
+      <circle id="楕円形_124" data-name="楕円形 124" class="cls-3" cx="1.641" cy="1.641" r="1.641" transform="translate(8.859 3.281)"/>
+      <line id="線_238" data-name="線 238" class="cls-3" x2="5.906" transform="translate(0.656 4.922)"/>
+      <line id="線_239" data-name="線 239" class="cls-3" x2="2.789" transform="translate(12.305 4.922)"/>
+      <line id="線_240" data-name="線 240" class="cls-3" x2="2.953" transform="translate(0.656 10.828)"/>
+      <circle id="楕円形_125" data-name="楕円形 125" class="cls-3" cx="1.641" cy="1.641" r="1.641" transform="translate(3.609 9.188)"/>
+      <line id="線_241" data-name="線 241" class="cls-3" x2="6.234" transform="translate(8.859 10.828)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.5" height="35.5" viewBox="0 0 35.5 35.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a7cac;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="グループ_465" data-name="グループ 465" transform="translate(-317.5 -522.4)">
+    <circle id="楕円形_95" data-name="楕円形 95" class="cls-1" cx="17.75" cy="17.75" r="17.75" transform="translate(317.5 522.4)"/>
+    <path id="パス_22" data-name="パス 22" class="cls-2" d="M530.484,591.431h10.592v15.3l-5.225-5.106-5.368,5.106Z" transform="translate(-200.297 -58.482)"/>
+  </g>
+</svg>

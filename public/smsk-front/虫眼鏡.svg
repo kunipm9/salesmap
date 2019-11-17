@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.192" height="13.765" viewBox="0 0 13.192 13.765">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: rgba(255,255,255,0);
+        stroke: #d4d4d4;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <g id="グループ_279" data-name="グループ 279" transform="translate(1 1)">
+    <ellipse id="楕円形_80" data-name="楕円形 80" class="cls-1" cx="4.319" cy="4.548" rx="4.319" ry="4.548"/>
+    <line id="線_163" data-name="線 163" class="cls-2" x2="3.23" y2="3.401" transform="translate(7.548 7.95)"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.21" height="20.21" viewBox="0 0 20.21 20.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(255,255,255,0);
+        stroke: #3a7cac;
+        stroke-width: 1.5px;
+        opacity: 0.6;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="長方形_863" data-name="長方形 863" class="cls-1">
+    <rect class="cls-2" width="20.21" height="20.21" rx="6"/>
+    <rect class="cls-3" x="0.75" y="0.75" width="18.71" height="18.71" rx="5.25"/>
+  </g>
+</svg>

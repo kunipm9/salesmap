@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109.614" height="29.862" viewBox="0 0 109.614 29.862">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a7cac;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 1.8px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-size: 16px;
+        font-family: HiraKakuProN-W6, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.082em;
+      }
+    </style>
+  </defs>
+  <g id="グループ_527" data-name="グループ 527" transform="translate(-255 -392)">
+    <rect id="長方形_605" data-name="長方形 605" class="cls-1" width="109.614" height="29.862" rx="14.931" transform="translate(255 392)"/>
+    <path id="パス_347" data-name="パス 347" class="cls-2" d="M-66,1305.253h5.609v6.039" transform="translate(403.481 -906.253)"/>
+    <path id="パス_348" data-name="パス 348" class="cls-2" d="M-61.152,1305.253l-8.428,8.839" transform="translate(404.24 -906.253)"/>
+    <path id="パス_349" data-name="パス 349" class="cls-2" d="M-64.759,1331.17h-5.5v10.941h11.2v-5.944" transform="translate(399.5 -929.184)"/>
+    <text id="MAP" class="cls-3" transform="translate(276.5 413)"><tspan x="0" y="0">MAP</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.74" height="53.74" viewBox="0 0 53.74 53.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3aaca3;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="グループ_557" data-name="グループ 557" transform="translate(0.128 2.492)">
+    <circle id="楕円形_83" data-name="楕円形 83" class="cls-1" cx="19" cy="19" r="19" transform="translate(-0.128 24.378) rotate(-45)"/>
+    <g id="はがきの無料アイコン_1" data-name="はがきの無料アイコン 1" transform="translate(-27.491 15.641)">
+      <path id="パス_321" data-name="パス 321" class="cls-2" d="M59.879,0H48.934a1.573,1.573,0,0,0-1.571,1.572V15.714a1.573,1.573,0,0,0,1.571,1.571H59.879a1.573,1.573,0,0,0,1.572-1.571V1.572A1.573,1.573,0,0,0,59.879,0ZM48.873,1.572a.062.062,0,0,1,.062-.062H59.879a.062.062,0,0,1,.062.062V15.714a.062.062,0,0,1-.062.062H48.934a.062.062,0,0,1-.062-.062Z" transform="translate(0 0)"/>
+      <path id="パス_322" data-name="パス 322" class="cls-2" d="M129.5,87.927v.005h2.6V84.726h-2.6v3.2Z" transform="translate(-79.364 -81.866)"/>
+      <path id="パス_323" data-name="パス 323" class="cls-2" d="M232.77,86.254v.005h1.245V84.726H232.77v1.528Z" transform="translate(-179.147 -81.866)"/>
+      <path id="パス_324" data-name="パス 324" class="cls-2" d="M289.2,86.254v.005h1.245V84.726H289.2v1.528Z" transform="translate(-233.671 -81.866)"/>
+      <path id="パス_325" data-name="パス 325" class="cls-2" d="M345.633,86.254v.005h1.245V84.726h-1.245v1.528Z" transform="translate(-288.2 -81.866)"/>
+      <path id="パス_326" data-name="パス 326" class="cls-2" d="M133.5,388.906v1.11h0v.005h8.271v-1.115Z" transform="translate(-83.229 -375.776)"/>
+    </g>
+  </g>
+</svg>

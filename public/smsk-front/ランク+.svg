@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="35.5" viewBox="0 0 84 35.5">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        font-size: 11px;
+        font-family: HiraKakuProN-W6, Hiragino Kaku Gothic ProN;
+      }
+
+      .cls-2 {
+        fill: #3a7cac;
+      }
+    </style>
+  </defs>
+  <g id="グループ_431" data-name="グループ 431" transform="translate(-269 -332.4)">
+    <text id="ランク" class="cls-1" transform="translate(269 355)"><tspan x="0" y="0">ランク</tspan></text>
+    <g id="グループ_430" data-name="グループ 430">
+      <circle id="楕円形_99" data-name="楕円形 99" class="cls-2" cx="17.75" cy="17.75" r="17.75" transform="translate(317.5 332.4)"/>
+      <g id="starred-badge" transform="translate(249.069 341)">
+        <g id="グループ_362" data-name="グループ 362" transform="translate(79.931)">
+          <g id="グループ_361" data-name="グループ 361" transform="translate(0)">
+            <path id="パス_174" data-name="パス 174" class="cls-3" d="M92.525,6.3a6.3,6.3,0,1,0-8.753,5.8L82.3,18.466l4.07-2.868,4.067,2.868L89.1,11.895A6.3,6.3,0,0,0,92.525,6.3Zm-6.3,4.548A4.546,4.546,0,1,1,90.774,6.3,4.548,4.548,0,0,1,86.226,10.845Z" transform="translate(-79.931)"/>
+            <path id="パス_175" data-name="パス 175" class="cls-3" d="M155.458,67.974l-.87-2.679-.87,2.679H150.9l2.28,1.657-.869,2.678,2.279-1.655,2.279,1.655L156,69.631l2.28-1.657Z" transform="translate(-148.291 -62.896)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
