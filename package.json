@@ -19,7 +19,7 @@
     "@types/robust-point-in-polygon": "^1.0.0",
     "autosuggest-highlight": "^3.1.1",
     "awesome-bootstrap-checkbox": "^0.3.7",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "blueimp-canvas-to-blob": "^3.14.0",
     "bootstrap": "^4.3.1",
     "bootstrap-css-only": "^4.3.1",
